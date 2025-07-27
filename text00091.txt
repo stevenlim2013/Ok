@@ -1,0 +1,66 @@
+Astro Premier League 1,http://223.18.103.169:8277/go_assp1/playlist.m3u8
+Astro Premier League 1,http://223.18.103.169:8277/go_assp1/playlist.m3u8
+Astro EPL 1 backup,http://223.18.103.169:8277/go_assp1x/playlist.m3u8
+Astro Premier League 2,http://223.18.103.169:8277/go_assp2/playlist.m3u8
+Astro EPL 1 backup,http://223.18.103.169:8277/go_assp1x/playlist.m3u8
+Astro Football,http://223.18.103.169:8277/go_assp4/playlist.m3u8
+Astro Football,http://223.18.103.169:8277/go_assp4/playlist.m3u8
+Astro Sports Plus,http://223.18.103.169:8277/go_sportsplus/playlist.m3u8
+Astro Sports Plus,http://223.18.103.169:8277/go_sportsplus/playlist.m3u8
+Astro Premier League 2,http://223.18.103.169:8277/go_assp2/playlist.m3u8
+Astro Badminton 2,http://223.18.103.169:8277/go_badminton2/playlist.m3u8
+Astro Badminton 2,http://223.18.103.169:8277/go_badminton2/playlist.m3u8
+Astro W-Sports,http://223.18.103.169:8277/go_assp5/playlist.m3u8
+Astro W-Sports,http://223.18.103.169:8277/go_assp5/playlist.m3u8
+Supersports 1,http://223.18.103.169:8277/Assp1/playlist.m3u8
+Supersports 1,http://223.18.103.169:8277/Assp1/playlist.m3u8
+Supersports 3,http://223.18.103.169:8277/Assp3/playlist.m3u8
+Supersports 3,http://223.18.103.169:8277/Assp3/playlist.m3u8
+Supersports 4,http://223.18.103.169:8277/Assp4/playlist.m3u8
+Supersports 4,http://223.18.103.169:8277/Assp4/playlist.m3u8
+WWE,http://223.18.103.169:8277/Wwe/playlist.m3u8
+WWE,http://223.18.103.169:8277/Wwe/playlist.m3u8
+Fight Sports,http://223.18.103.169:8277/Fs/playlist.m3u8
+Fight Sports,http://223.18.103.169:8277/Fs/playlist.m3u8
+NBA TV,http://223.18.103.169:8277/Nba/playlist.m3u8
+NBA TV,http://223.18.103.169:8277/Nba/playlist.m3u8
+Astro Golf,http://223.18.103.169:8277/Agolf/playlist.m3u8
+Astro Golf,http://223.18.103.169:8277/Agolf/playlist.m3u8
+Tnt Sports 1,http://223.18.103.169:8277/6fac0aaead/playlist.m3u8
+Tnt Sports 1,http://223.18.103.169:8277/6fac0aaead/playlist.m3u8
+TNT Sports 2,http://223.18.103.169:8277/d9a76a79cc/playlist.m3u8
+TNT Sports 2,http://223.18.103.169:8277/d9a76a79cc/playlist.m3u8
+TNT Sports 3,http://223.18.103.169:8277/5fea4d73db/playlist.m3u8
+TNT Sports 3,http://223.18.103.169:8277/5fea4d73db/playlist.m3u8
+TNT Sports 4,http://223.18.103.169:8277/tntsport4/playlist.m3u8
+TNT Sports 4,http://223.18.103.169:8277/tntsport4/playlist.m3u8
+Sony Ten 1,http://223.18.103.169:8277/ten1_raj/playlist.m3u8
+Sony Ten 1,http://223.18.103.169:8277/ten1_raj/playlist.m3u8
+Sony Ten 2,http://223.18.103.169:8277/ten2_raj/playlist.m3u8
+Sony Ten 2,http://223.18.103.169:8277/ten2_raj/playlist.m3u8
+Sony Ten 3,http://223.18.103.169:8277/ten3_raj/playlist.m3u8
+Sony Ten 3,http://223.18.103.169:8277/ten3_raj/playlist.m3u8
+SPOTV 1 HD,http://223.18.103.169:8277/go_spotv/playlist.m3u8
+SPOTV 1 HD,http://223.18.103.169:8277/go_spotv/playlist.m3u8
+SPO TV 2,http://223.18.103.169:8277/go_spotv2/playlist.m3u8
+SPO TV 2,http://223.18.103.169:8277/go_spotv2/playlist.m3u8
+Skysports F1,http://223.18.103.169:8277/tiankongf1/playlist.m3u8
+Skysports F1,http://223.18.103.169:8277/tiankongf1/playlist.m3u8
+Skysports Cricket,http://223.18.103.169:8277/tiankongcricket/playlist.m3u8
+Skysports Cricket,http://223.18.103.169:8277/tiankongcricket/playlist.m3u8
+Skysports EPL,http://223.18.103.169:8277/tiankongepl/playlist.m3u8
+Skysports EPL,http://223.18.103.169:8277/tiankongepl/playlist.m3u8
+Skysports Main Event,http://223.18.103.169:8277/tiankongmain/playlist.m3u8
+Skysports Main Event,http://223.18.103.169:8277/tiankongmain/playlist.m3u8
+Skysports Mix,http://223.18.103.169:8277/tiankongmix/playlist.m3u8
+Skysports Mix,http://223.18.103.169:8277/tiankongmix/playlist.m3u8
+Rugby Pass TV,http://223.18.103.169:8277/Rugbypasstv/playlist.m3u8
+Rugby Pass TV,http://223.18.103.169:8277/Rugbypasstv/playlist.m3u8
+RTM Sports HD,http://223.18.103.169:8277/Rtmsport/playlist.m3u8
+RTM Sports HD,http://223.18.103.169:8277/Rtmsport/playlist.m3u8
+Arena,http://223.18.103.169:8277/Arena/playlist.m3u8
+Arena,http://223.18.103.169:8277/Arena/playlist.m3u8
+Arena 2,http://223.18.103.169:8277/Arena2/playlist.m3u8
+Arena 2,http://223.18.103.169:8277/Arena2/playlist.m3u8
+Astro Beinsports 1,http://223.18.103.169:8277/Astrobein1/playlist.m3u8
+Astro Beinsports 1,http://223.18.103.169:8277/Astrobein1/playlist.m3u8
