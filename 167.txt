@@ -19,7 +19,6 @@ Catchplay,http://198.16.100.186:8278/catchplay_twn/playlist.m3u8?tid=ME1E5495056
 东森电影,http://wanjiatv.net/ydmt/smrt.php?playurl=http://198.16.100.186:8278/ettvmovie/ettvmovieplaylist.m3u8
 东森戏剧,http://198.16.100.186:8278/ettvdrama/ettvdramaplaylist.m3u8?tid=ME1E9921173099211730&ct=20269&tsum=e1a4cc0e1ff422d71605637b71605637e
 东森电影,http://198.16.100.186:8278/ettvmovie/ettvmovieplaylist.m3u8?tid=MCFC4669433546694335&ct=20269&tsum=cbcdc9ccff65dd1c2e49bcc73f578820
-龍翔時代,https://live.catvod.com/smart.php?id=lungxiangtime_twn
 Tvb星河国语,https://stream1.freetv.fun/3d4d47a3a7346236e9d90046baacb4d3019b58656d80e2abd4c4b06234b2594d.m3u8
 靖洋戏剧台,https://stream1.freetv.fun/6fe99a12ac024f6d592a187ef379c9634e4f3b14ac75ebf30a675ca7d8cb454d.ctv
 龍翔時代,https://live.catvod.com/smart.php?id=cb7a1fec69
