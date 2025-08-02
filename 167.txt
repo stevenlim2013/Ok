@@ -16,7 +16,7 @@ CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
 Catchplay，http://198.16.100.186:8278/catchplay_twn/playlist.m3u8?tid=ME1E5495056154950561&ct=20270&tsum=a2aa9e2d45997b81c8a2642dbdddbe6c
 东森幼幼，http://198.16.100.186:8278/yoyo_twn/playlist.m3u8?tid=MDBD4310180643101806&ct=20283&tsum=816db1262a50a9084cbabb41c32decc3
 东森电影，http://wanjiatv.net/ydmt/smrt.php?playurl=http://198.16.100.186:8278/ettvmovie/ettvmovieplaylist.m3u8
-东森戏剧台，http://198.16.100.186:8278/ettvdrama/ettvdramaplaylist.m3u8?tid=ME1E9921173099211730&ct=20269&tsum=e1a4cc0e1ff422d71605637b71605637e
+东森戏剧http://198.16.100.186:8278/ettvdrama/ettvdramaplaylist.m3u8?tid=ME1E9921173099211730&ct=20269&tsum=e1a4cc0e1ff422d71605637b71605637e
 
 东森电影http://198.16.100.186:8278/ettvmovie/ettvmovieplaylist.m3u8?tid=MCFC4669433546694335&ct=20269&tsum=cbcdc9ccff65dd1c2e49bcc73f578820
 Tvb星河国语，https://stream1.freetv.fun/3d4d47a3a7346236e9d90046baacb4d3019b58656d80e2abd4c4b06234b2594d.m3u8
