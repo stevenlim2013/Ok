@@ -22,6 +22,18 @@ Catchplay,http://198.16.100.186:8278/catchplay_twn/playlist.m3u8?tid=ME1E5495056
 Tvb星河国语,https://stream1.freetv.fun/3d4d47a3a7346236e9d90046baacb4d3019b58656d80e2abd4c4b06234b2594d.m3u8
 靖洋戏剧台,https://stream1.freetv.fun/6fe99a12ac024f6d592a187ef379c9634e4f3b14ac75ebf30a675ca7d8cb454d.ctv
 龍翔時代,https://live.catvod.com/smart.php?id=cb7a1fec69
+八大戏剧台,http://104.233.200.52:8278/badadrama/playlist.m3u8?tid=MA6A6411590564115905&ct=20302&tsum=001155afe69c882a520a68d60e1e6a26  
+东森戏剧台,http://104.233.200.52:8278/ettvdrama/playlist.m3u8?tid=MD6D8145507881455078&ct=20302&tsum=b7382abb183750b1e094981d19a0cb65  
+东森电影台,http://104.233.200.52:8278/ettvmovie/playlist.m3u8?tid=MD8D1196105911961059&ct=20302&tsum=2d3d39370d14a66861c463e62aabb878  
+东森戏剧台,http://104.233.200.52:8278/ettvdrama/playlist.m3u8?tid=MD9D3924285839242858&ct=20302&tsum=71143223f76a4d515fa43c66300b92c8  
+东森电影,http://104.233.200.52:8278/ettvmovie/playlist.m3u8?tid=MB5B3919067339190673&ct=20302&tsum=2adb01444f5efac6e5f915bef34042f5  
+美亚电影,https://stream1.freetv.fun/4cb55d1a0cd0148ed2aa550000fb523f7af41914d46d291e30b476acfb6c6d64.m3u8  
+美亚电影,https://stream1.freetv.fun/mei-ya-dian-ying-tai---a-1.m3u8  
+东森戏剧台,http://198.16.100.186:8278/ettvdrama/playlist.m3u8?tid=MD0D9442993194429931&ct=20302&tsum=dbcdbb507af44e61b5ad6d1ad03498de  
+东森戏剧台,http://198.16.100.186:8278/ettvdrama/playlist.m3u8?tid=ME7E6152313261523132&ct=20302&tsum=0a29d6cfe6eab352ae480573e42fcd69  
+东森电影台,http://198.16.100.186:8278/ettvmovie/playlist.m3u8?tid=MF2F7097137470971374&ct=20302&tsum=1e3729c872b3fdde7f7186c4e0125015  
+华视,http://198.16.100.186:8278/ctshd_twn/playlist.m3u8?tid=MDFD7526428275264282&ct=20302&tsum=c1c8baf24a6acf1d09d709d50548c98d  
+Nike少儿,https://stream1.freetv.fun/c0853049116eb6938c4a4a747277465710ec26a822fdb2a326c7dcb0fa75e20b.m3u8
 168需要科学［美］节,#genre#
 TVB翡翠台,p3p://167.114.175.6:55331/66c04cec000a20ac2dbf03c71cf661c9
 TVB翡翠台 H.265,p3p://167.114.175.6:55331/653e4c02000ea0440c8c63fd3e5d709d
