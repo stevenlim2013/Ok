@@ -13,6 +13,7 @@
 龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 民視,https://www.4gtv.tv/channel/4gtv-4gtv002?set=1&ch=3
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
+龍翔時代,https://live.catvod.com/smart.php?id=lungxiangtime_twn
 Catchplay,http://198.16.100.186:8278/catchplay_twn/playlist.m3u8?tid=ME1E5495056154950561&ct=20270&tsum=a2aa9e2d45997b81c8a2642dbdddbe6c
 东森幼幼,http://198.16.100.186:8278/yoyo_twn/playlist.m3u8?tid=MDBD4310180643101806&ct=20283&tsum=816db1262a50a9084cbabb41c32decc3
 东森电影,http://wanjiatv.net/ydmt/smrt.php?playurl=http://198.16.100.186:8278/ettvmovie/ettvmovieplaylist.m3u8
