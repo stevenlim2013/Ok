@@ -1,7 +1,17 @@
 
 167需要科学［美］节,#genre#
 龙祥时代,http://104.233.200.52:8278/lungxiangtime_twn/playlist.m3u8?tid=MFFF9299444992994449&ct=19226&tsum=98d6988c4c94e299cb1c151856c909a8
-龙
+龍華戲劇,http://104.233.200.52:8278/lunghuaxiju_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=6e351c1cca8c4f6d4a8be9b8d774dc0a
+龍祥時代,http://104.233.200.52:8278/lungxiangtime_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=97b5a1d6e0010c40e6d8781805a70ba2
+鳳凰香港,http://104.233.200.52:8278/hkphoenix_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=4183c94fea010c7e1abbc12ca204f3f2
+鳳凰資訊,http://104.233.200.52:8278/phoenixinfo_hd/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=eebd39d54d44acac9b9e72161dd32374
+鳳凰衛視,http://104.233.200.52:8278/phoenixtv_hd/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=6c4718b80e294357af0ceb878ca6e0f7
+非凡新聞台,http://104.233.200.52:8278/feifannews_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=ac14986110b0e75fe23edff90ab336b2
+阿里郎,http://104.233.200.52:8278/arirang_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=ce64ef8bc61140524339935d73ae5481
+阿里郎 Arirang,http://104.233.200.52:8278/arirang_twn/playlist.m3u8?tid=MF5F3988861839888618&ct=19249&tsum=781d490a6abe9f48f5b93e211cbe0307
+翡翠台,http://104.233.200.52:8278/jade_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=179e28465162020de54864aa6c9cf56d
+纬来体育台,http://104.233.200.52:8278/videolandsport/playlist.m3u8?tid=MF0F9609085796090857&ct=19254&tsum=6bf853a68e195475b4892428199568c7
+珍珠台,http://104.233.200.52:8278/pearl_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=23ce061d52e67be92cb89a222e9958a2
 龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
