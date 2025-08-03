@@ -1,6 +1,4 @@
 国内台 123 ,#genre#
-CCTV1,http://110.177.144.22:9003/hls/1/index.m3u8
-CCTV2,http://110.177.144.22:9003/hls/2/index.m3u8
 CCTV3,http://110.177.144.22:9003/hls/3/index.m3u8
 CCTV4,http://110.177.144.22:9003/hls/4/index.m3u8
 CCTV5,http://110.177.144.22:9003/hls/5/index.m3u8
@@ -37,6 +35,7 @@ CCTV17,http://110.177.144.22:9003/hls/18/index.m3u8
 辽宁卫视,http://110.177.144.22:9003/hls/37/index.m3u8
 内蒙卫视,http://110.177.144.22:9003/hls/38/index.m3u8
 宁夏卫视,http://110.177.144.22:9003/hls/39/index.m3u8
+青海卫视,http://110.177.144.22:9003/hls/40/index.m3u8
 松视彩虹 🌈 ,#genre#
 成人1,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 成人2,http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
