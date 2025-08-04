@@ -53,7 +53,6 @@ Korea Paradise TV,rtmp://edge2.everyon.tv/etv2/pld1008
 日韩CR电影4,rtmp://123.108.164.71/etv2/phd1003
 日韩CR电影5,rtmp://123.108.164.71/etv2/phd1005
 新韩源1,rtmp://edge2.everyon.tv/etv2/phd1003
-
 新韩源1,rtmp://edge2.everyon.tv:1935/etv2/phd1003
 新韩源2,rtmp://edge2.everyon.tv/etv2/phd1005
 新韩源3,rtmp://edge2.everyon.tv/etv2/phd1008
