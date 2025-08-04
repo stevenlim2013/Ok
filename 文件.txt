@@ -1,1 +1,5 @@
-#EXTM3UEXTINF:-1,cn卡通http://125.227.210.55:8167/VideoInput/VideoInputplay.ts
+#EXTM3U
+#EXTINF:-1 tvg-id="channel1" tvg-name="happy" tvg-logo="http://example.com/logo1.png" group-title="娛樂",happy
+http://ali.hlspull.yximgs.com:80/live/98f94700935912b511a14422039d3d05.flv
+#EXTINF:-1 tvg-id="channel2" tvg-name="香蕉" tvg-logo="http://example.com/logo2.png" group-title="綜藝",香蕉
+http://ali.hlspull.yximgs.com:80/live/e8ca161fb933c424a984bc96d699adce.flv
