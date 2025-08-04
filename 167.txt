@@ -383,6 +383,7 @@ CGTN,https://Smart.pendy.dpdns.org/Smart.php?id=CGTN
 极限电影,p3p://173.208.176.178:19806/6109e9bb0005fd87fd9ce5ea2c1f18d3.ts
 西方OFFICE场景,p3p://173.208.176.178:19806/6403cb9f0003a839400cad904b301253.ts
 台湾频道［美］节,#genre#
+美亚电影台,http://s1.an94tv.cfd/aktv/hk/AKTV.m3u8
 龙祥时代,http://104.233.200.52:8278/lungxiangtime_twn/playlist.m3u8?tid=MFFF9299444992994449&ct=19226&tsum=98d6988c4c94e299cb1c151856c909a8
 龍華戲劇,http://104.233.200.52:8278/lunghuaxiju_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=6e351c1cca8c4f6d4a8be9b8d774dc0a
 龍祥時代,http://104.233.200.52:8278/lungxiangtime_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=97b5a1d6e0010c40e6d8781805a70ba2
