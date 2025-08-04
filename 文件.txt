@@ -1,1 +1,1 @@
-#EXTM3U #EXTINF:-1,cn卡通http://125.227.210.55:8167/VideoInput/VideoInputplay.ts
+#EXTM3UEXTINF:-1,cn卡通http://125.227.210.55:8167/VideoInput/VideoInputplay.ts
