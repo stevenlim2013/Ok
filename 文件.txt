@@ -1,4 +1,4 @@
-oo,#genre#
+oo，  #genre#
 oo1o,http://18.svi-studio.com:80/live/176619383282/537544338952/5.m3u8
 oo1o,http://z88.ubtvfans.com/live/rx3/462/2d5f45ef7b7b9@e9b47c6963be6d5120/
 index.m3u8
