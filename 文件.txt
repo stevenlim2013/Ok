@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Cartoon Network" group-title="兒童",Cartoon Network卡通頻道
+http://125.227.210.55:8167/VideoInput/VideoInputplay.ts
