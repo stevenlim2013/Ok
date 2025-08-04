@@ -1,29 +1,38 @@
-#EXTM3U
-#EXTINF:-1,松视 sonsee 1
-http://anbo.hicloud.org/jqkjzy/crtv.php?id=402
-#EXTINF:-1,松视 sonsee 2
-http://anbo.hicloud.org/jqkjzy/crtv.php?id=403
-#EXTINF:-1,松视 sonsee 3
-http://anbo.hicloud.org/jqkjzy/crtv.php?id=404
-#EXTINF:-1,彩虹频道 Rainbow Channel
-http://anbo.hicloud.org/jqkjzy/crtv.php?id=405
-#EXTINF:-1,K 频道 K Channel
-http://anbo.hicloud.org/jqkjzy/crtv.php?id=406
-#EXTINF:-1,HOT
-http://anbo.hicloud.org/jqkjzy/crtv.php?id=407
-#EXTINF:-1,香蕉台 Banana
-http://anbo.hicloud.org/jqkjzy/crtv.php?id=408
-#EXTINF:-1,惊艳台 Amazing HD
-http://anbo.hicloud.org/jqkjzy/crtv.php?id=409
-#EXTINF:-1,潘多拉玩美 Pandora Perfect HD
-http://anbo.hicloud.org/jqkjzy/crtv.php?id=410
-#EXTINF:-1,潘多拉粉红 Pandora Pink HD
-http://anbo.hicloud.org/jqkjzy/crtv.php?id=411
-#EXTINF:-1,欢乐台 Happy Channel
-http://anbo.hicloud.org/jqkjzy/crtv.php?id=412
-#EXTINF:-1,彩虹电影 Rainbow Movies
-http://anbo.hicloud.org/jqkjzy/crtv.php?id=413
-#EXTINF:-1,一本道 Ipendo TV
-http://anbo.hicloud.org/jqkjzy/crtv.php?id=414
-#EXTINF:-1,Girl Paradise
-http://anbo.hicloud.org/jqkjzy/crtv.php?id=415
+oo,#genre#
+oo1o,http://18.svi-studio.com:80/live/176619383282/537544338952/5.m3u8
+oo1o,http://z88.ubtvfans.com/live/rx3/462/2d5f45ef7b7b9@e9b47c6963be6d5120/
+index.m3u8
+nn1o,http://18.svi-studio.com:8886/live/584830114673/800309151021/5.m3u8
+oo2o,http://18.svi-studio.com:80/live/176619383282/537544338952/6.m3u8
+oo2o,http://z88.ubtvfans.com/live/rx3/403/169cf37c3b8@aa73066703f16f161f7d/
+index.m3u8
+oo2o,http://18.svi-studio.com:8880/live/917952932058/953281067271/6.m3u8
+an3a,http://18.svi-studio.com:86/live/176619383282/537544338952/20205.m3u8
+oo3o,http://z88.ubtvfans.com/live/rx3/404/f879380862739b846ed31d934c19b4de/ 
+index.m3u8
+an3a,http://18.svi-studio.com:888@/live/271871095922/006886711863/20205.m3u8
+oooo,http://125.227.210.55:8159/VideoImput/play.ts
+oooo,http://125.227.210.55:8159/VideoImput/play.ts
+oo2,http://125.227.210.55:55643/VideoInput/play.ts
+oo2,http://125.227.210.55:55643/VideoInput/play.ts
+oo3,http://125.227.210.55:8917/VideoImput/play.ts
+nu3,http://125.227.210.55:8917/VideoInput/play.ts
+mainu1,http://125.227.210.55:51359/VideoInput/play.ts
+sexohttp://125.227.210.55:62698/VideoImput/play.ts
+sexohttp://125.227.210.55:62698/VideoImput/play.ts
+oooKo,http://z88.ubtvfans.com/live/rx3/415/24833f79298189b7d1b6oe9d59afo@18/
+index.m3u8
+oooKo,http://z88.ubtvfans.com/live/rx3/415/24833f79298189b7d1b6oe9d59afo@18/
+index.m3u8
+oooKo,http://z88.ubtvfans.com/live/rx3/415/24833f79298189b7d1b6oe9d59af@@18/
+index.m3u8
+oooEo,http://z88.ubtvfans.com/live/rx3/406/6a7f36cbbe921ega6809d4a8c131aef1/
+index.m3u8
+oooEa,http://z88.ubtvfans.com/live/rx3/406/6a7f30cbbeg21ega6809d4a8c131aef1/
+index.m3u8
+onoEo,http://z88.ubtvfans.com/live/rx3/406/6a7f30cbbeg21ega680gd4a8c131aef1/
+index.m3u8
+Download to read ad-free
+This document is...
+区
+|
