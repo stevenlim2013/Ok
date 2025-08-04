@@ -330,6 +330,7 @@ CGTN,https://Smart.pendy.dpdns.org/Smart.php?id=CGTN
 极限电影,p3p://173.208.176.178:19806/6109e9bb0005fd87fd9ce5ea2c1f18d3.ts
 西方OFFICE场景,p3p://173.208.176.178:19806/6403cb9f0003a839400cad904b301253.ts
 台湾频道［美］节,#genre#
+Cn中文卡通,http://198.16.100.186:8278/momo1_twn/playlist.m3u8?tid=MC4C9026062090260620&ct=20269&tsum=1df3d8c310edc0ec9bca9ebcda3786dd
 CN卡通中文台,http://125.227.210.55:8167/VideoInput/VideoInputplay.m3u8
 美亚电影台,http://s1.an94tv.cfd/aktv/hk/AKTV.m3u8
 龙祥时代,http://104.233.200.52:8278/lungxiangtime_twn/playlist.m3u8?tid=MFFF9299444992994449&ct=19226&tsum=98d6988c4c94e299cb1c151856c909a8
