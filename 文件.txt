@@ -1,5 +1,33 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="channel1" tvg-name="happy" tvg-logo="http://example.com/logo1.png" group-title="娛樂",happy
-http://ali.hlspull.yximgs.com:80/live/98f94700935912b511a14422039d3d05.flv
-#EXTINF:-1 tvg-id="channel2" tvg-name="香蕉" tvg-logo="http://example.com/logo2.png" group-title="綜藝",香蕉
-http://ali.hlspull.yximgs.com:80/live/e8ca161fb933c424a984bc96d699adce.flv
+22:26
+小红书
+可
+7.5K/s 
+server
+#EXTINF:-1,松视 sonsee 1
+http://anbo.hicloud.co/jqkjzy/crtv.php?id=402
+#EXTINF:-1,松视 sonsee 2
+http://anbo.hicloud.co/jqkjzy/crtv.php?id=403
+#EXTINF:-1,松视 sonsee 3
+http://anbo.hicloud.co/jqkjzylcrtv.php?id=404
+#EXTINF:-1,彩虹频道 Rainbow Channel
+http://anbo.hicloud.co/jqkjzy/crtv.php?id=405
+#EXTINF:-1,K 频道 K Channel
+http://anbo.hicloud.co/jqkjzy/crtv.php?id=406
+#EXTINF:-1,HOT
+http://anbo.hicloud.co/jqkjzy/crtv.php?id=407
+#EXTINF:-1,香蕉台 Banana
+http://anbo.hicloud.co/jqkjzy/crtv.php?id=408
+#EXTINF:-1,惊艳台 Amazing HD
+http://anbo.hicloud.co/jiqkjzy/crtv.php?id=409
+#EXTINF:-1,潘多拉玩美 Pandora Perfect HD
+http://anbo.hicloud.co/jqkjzy/crtv.php?id=410
+#EXTINF:-1,潘多拉粉红 Pandora Pink HD
+http://anbo.hicloud.co/jqkjzy/crtv.php?id=411
+#EXTINF:-1,欢乐台 Happy Channel
+http://anbo.hicloud.co/jqkjzy/crtv.php?id=412
+#EXTINF:-1,彩虹电影 Rainbow Movies
+http:/anbo.hicloud.co/jqkjzy/crtv.php?id=413
+#EXTINF:-1,一本道 Ipendo TV
+http://anbo.hicloud.co/jqkjzylcrtv.php?id=414
+#EXTINF:-1,Girl Paradise
+Ihhi)i5)1·_)_))-1_·__-55i5iO…_≥A5
