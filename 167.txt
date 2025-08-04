@@ -350,7 +350,7 @@ CGTN,https://Smart.pendy.dpdns.org/Smart.php?id=CGTN
 成人5,http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
 成人Extasy7,http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 成人EroxHD8,http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8 
-
+龙翔时代,https://haoyunlai.serv00.net/Smartv-1.php?id=lungxiangtime_twn
 美亚电影,http://live4play.uk/livehttpplay?channel_id=20197
 美亚电影台,https://mysupertv.pendy.dpdns.org/CMAM/cmam.m3u8
 美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
