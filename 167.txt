@@ -350,7 +350,8 @@ Eye戏剧台,https://stream1.freetv.fun/9339a8973f5ebef5540610e69bd59b3058a16ee2
 Cn中文卡通,http://198.16.100.186:8278/momo1_twn/playlist.m3u8?tid=MC4C9026062090260620&ct=20269&tsum=1df3d8c310edc0ec9bca9ebcda3786dd
 CN卡通中文台,http://125.227.210.55:8167/VideoInput/VideoInputplay.ts
 美亚电影台,http://s1.an94tv.cfd/aktv/hk/AKTV.m3u8
-龙祥时代,http://104.233.200.52:8278/lungxiangtime_twn/playlist.m3u8?tid=MFFF9299444992994449&ct=19226&tsum=98d6988c4c94e299cb1c151856c909a8
+龙翔时代,mitv://66.42.60.221:6001/68541c90000ba4ad05313627a4462710.ts
+龙翔时代,http://free.cnlive.club/channel/n5dff94e1/index.m3u8?q=1754358113174
 龍華戲劇,http://104.233.200.52:8278/lunghuaxiju_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=6e351c1cca8c4f6d4a8be9b8d774dc0a
 龍祥時代,http://104.233.200.52:8278/lungxiangtime_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=97b5a1d6e0010c40e6d8781805a70ba2
 鳳凰香港,http://104.233.200.52:8278/hkphoenix_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=4183c94fea010c7e1abbc12ca204f3f2
