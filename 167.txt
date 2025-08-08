@@ -1,4 +1,15 @@
 AKTV   ,#genre#
+彩虹1臺http://live.urren.net/live/0e36d9d2340b7feb432773e410597b4d.flv
+彩虹2臺,http://live.urren.net/live/1837fe95f26513a7de0418367912a8df.flv
+彩虹3臺,http://live.urren.net/live/ef8d729786925dd4e634a937ebd1e059.flv
+彩虹E臺,http://live.urren.net/live/edc23dde1bd45dcb250d197056fc8bbc.flv
+彩虹K臺,http://live.urren.net/live/2b4a800b42166d30ee11bd302d902722.flv
+彩虹电影,http://live.urren.net/live/50f7960908e94476b05403e7fa05b1b2.flv
+彩虹多拉,http://live.urren.net/live/b93c6c9f762cd28fb7c5b806d143f7b1.flv
+彩虹惊艳,http://live.urren.net/live/0c7f6373df054f627887ec17bfdf5317.flv
+彩虹香蕉,http://live.urren.net/live/dca27696ad7195ec667b8dc114629418.flv
+彩虹HAPPY,http://live.urren.net/live/a33624ce8f497cb990898e7d4ce1d24e.flv
+彩虹極致,http://live.urren.net/live/7b1a3ff209fd9c9bd23eb8a1c2904ec4.flv
 驚艷,http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/85.ts
 潘朵拉完美,http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/86.ts
 香蕉台,http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/87.ts
