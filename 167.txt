@@ -1,5 +1,5 @@
 AKTV   ,#genre#
-彩虹1臺http://live.urren.net/live/0e36d9d2340b7feb432773e410597b4d.flv
+彩虹1臺,http://live.urren.net/live/0e36d9d2340b7feb432773e410597b4d.flv
 彩虹2臺,http://live.urren.net/live/1837fe95f26513a7de0418367912a8df.flv
 彩虹3臺,http://live.urren.net/live/ef8d729786925dd4e634a937ebd1e059.flv
 彩虹E臺,http://live.urren.net/live/edc23dde1bd45dcb250d197056fc8bbc.flv
