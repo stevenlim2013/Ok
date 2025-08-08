@@ -299,6 +299,8 @@ CGTN俄语,http://8.138.7.223/tv/migu2.php?id=24
 河南卫视,http://8.138.7.223/tv/migu2.php?id=33
 陕西卫视,http://8.138.7.223/tv/migu2.php?id=34
 国内台 123 ,#genre#
+湖南卫视 ,http://livesmart.robyang.dpdns.org:8278/hunan_twn/playlist.m3u8?tid=MD8D5802124058021240&ct=20308&tsum=b04c05981c674c906058d653775b4db2
+Cn卡通中文,http://198.16.100.186:8278/weishichinese_twn/playlist.m3u8?tid=MA8A8911529589115295&ct=20308&tsum=4accfd282921144402af407110823844
 CCTV11,http://111.227.196.164:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV11,http://112.80.201.222:9003/hls/11/index.m3u8
 CCTV11,http://111.9.163.186:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
