@@ -1,4 +1,10 @@
 AKTV   ,#genre#
+驚艷,http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/85.ts
+潘朵拉完美,http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/86.ts
+香蕉 http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/87.ts
+松視1台,http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/88.ts
+松視2台,http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/89.ts
+松視3台http://15.204.105.50:25461/live-G2s9zK2n9m/ezvrFwxGfA/90.ts
 日テレNEWS LIVE,http://s1.an94tv.cfd/aktvjp/ntv/AKTV.m3u8
 8TV,http://s1.an94tv.cfd/astro/8tv/AKTV.m3u8
 Astro Football,http://s1.an94tv.cfd/astro/CH-0/AKTV.m3u8
