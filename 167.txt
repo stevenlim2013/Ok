@@ -440,7 +440,8 @@ Eye戏剧台,https://stream1.freetv.fun/9339a8973f5ebef5540610e69bd59b3058a16ee2
 彩虹频道,p3p://173.208.176.178:19806/63fd589300099ff426db7203798a21f9.ts
 极限电影,p3p://173.208.176.178:19806/6109e9bb0005fd87fd9ce5ea2c1f18d3.ts
 西方OFFICE场景,p3p://173.208.176.178:19806/6403cb9f0003a839400cad904b301253.ts
-台湾频道［美］节,#genre#
+台湾频道［美］节,#genre# 
+Catchplay,http://live.urren.net:80/live/d9558197c31ca85782ee151d7839e03f.flv
 Cn中文卡通,http://198.16.100.186:8278/momo1_twn/playlist.m3u8?tid=MC4C9026062090260620&ct=20269&tsum=1df3d8c310edc0ec9bca9ebcda3786dd
 CN卡通中文台,http://125.227.210.55:8167/VideoInput/VideoInputplay.ts
 美亚电影台,http://s1.an94tv.cfd/aktv/hk/AKTV.m3u8
@@ -513,7 +514,7 @@ K频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8
 粗暴 720,http://cdn.adultiptv.net/rough.m3u8
 少女 720,http://cdn.adultiptv.net/teen.m3u8
 三人 720,http://cdn.adultiptv.net/threesome.m3u8
-俄罗斯成人5台,http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
+俄罗斯成人5台,http://live.redtraff7ic.xyz/bigdick.m3u8?fluxuslust.m3u8
 俄罗斯成人4台,http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
 俄罗斯成人1台,http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
 欧美版K频道,http://live.redtraffic.xyz/threesome.m3u8fluxuslust.m3u8
