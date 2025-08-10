@@ -440,8 +440,8 @@ Eye戏剧台,https://stream1.freetv.fun/9339a8973f5ebef5540610e69bd59b3058a16ee2
 彩虹频道,p3p://173.208.176.178:19806/63fd589300099ff426db7203798a21f9.ts
 极限电影,p3p://173.208.176.178:19806/6109e9bb0005fd87fd9ce5ea2c1f18d3.ts
 西方OFFICE场景,p3p://173.208.176.178:19806/6403cb9f0003a839400cad904b301253.ts
-台湾频道［美］节,#genre# 
-
+台湾频道［美］节,#genre#  
+Catchplay,http://198.16.100.186:8278/catchplay_twn/playlist.m3u8?tid=ME1E5495056154950561&ct=20270&tsum=a2aa9e2d45997b81c8a2642dbdddbe6c
 龙祥电影,http://play-aliyun.zego.im:80/live/de8fd8cf1db3caed1928de9f59687397.flv
 龙华电影,http://163.181.88.169:80/live.jnjyapp.cn/live/57513e543f4cd552595b0af7557cba56.flv
 龙华经典,http://163.181.88.171:80/live.jnjyapp.cn/live/b722d3764bb6c20f57c46538feb31a4c.flv
