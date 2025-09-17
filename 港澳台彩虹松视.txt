@@ -73,6 +73,7 @@ MYTV_SUPER戏曲,http://iptv.4666888.xyz/iptv.php?id=20113
 天映频道2,http://iptv.4666888.xyz/iptv.php?id=20117
 PopC电影,http://iptv.4666888.xyz/iptv.php?id=20118
 创世电视,http://iptv.4666888.xyz/iptv.php?id=20119
+美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya  
 美亚电影(港),http://iptv.4666888.xyz/iptv.php?id=20120
 中国电影,http://iptv.4666888.xyz/iptv.php?id=20121
 重温经典,http://iptv.4666888.xyz/iptv.php?id=20122
