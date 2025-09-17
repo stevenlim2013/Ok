@@ -73,6 +73,8 @@ MYTV_SUPER戏曲,http://iptv.4666888.xyz/iptv.php?id=20113
 天映频道2,http://iptv.4666888.xyz/iptv.php?id=20117
 PopC电影,http://iptv.4666888.xyz/iptv.php?id=20118
 创世电视,http://iptv.4666888.xyz/iptv.php?id=20119
+美亚电影,http://tl.061833.xyz/tl/null-5
+美亚电影,http://100.061833.xyz/stream/mytv/null-5/master.m3u8?u=vip888&p=ccc3d02e9775da9356f7b35715ba143680522485eb22b2c54b6e73630e5e1236
 美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya  
 美亚电影(港),http://iptv.4666888.xyz/iptv.php?id=20120
 中国电影,http://iptv.4666888.xyz/iptv.php?id=20121
