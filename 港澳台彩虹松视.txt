@@ -664,6 +664,11 @@ Tabi Channel,https://ca01.utako.moe/tabi/index.m3u8
 
 
 QQ群1020994020松视,#genre#
+彩虹e,p3p://167.114.175.6:55331/6062716c0008efc86f76f0c44d55329f 
+彩虹K,p3p://167.114.175.6:55331/63fd56ec000b5f0d26d4fe1b07963493 
+彩虹电影,p3p://167.114.175.6:55331/6253066c00049259f74b05224cf375e6 
+香蕉,p3p://167.114.175.6:55331/60626a760005067e6f5bbecb5816771e 
+极限电影,p3p://167.114.175.6:55331/6109e9bb0005fd87fd9ce5ea2c1f18d3 
 驚艷,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
 潘朵拉完美,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
 松視1台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
