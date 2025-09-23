@@ -7,6 +7,41 @@
 <!-- 成功: F (HTTP 200) -->
 <!-- 成功: G (HTTP 200) -->
 #EXTM3U
+#EXTINF:-1 group-title="成人18✘+",驚艷
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
+#EXTINF:-1 group-title="成人18✘+",潘朵拉完美
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
+#EXTINF:-1 group-title="成人18✘+",松視1台
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
+#EXTINF:-1 group-title="成人18✘+",松視2台
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
+#EXTINF:-1 group-title="成人18✘+",松視3台
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
+#EXTINF:-1 group-title="成人18✘+",九州惊艳
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
+#EXTINF:-1 group-title="成人18✘+",九州潘朵啦
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
+#EXTINF:-1 group-title="成人18✘+",九州彩虹
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
+#EXTINF:-1 group-title="成人18✘+",九州松1
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
+#EXTINF:-1 group-title="成人18✘+",九州松2
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
+#EXTINF:-1 group-title="成人18✘+",九州松3
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
+#EXTINF:-1 group-title="成人18✘+",彩虹e
+p3p://167.114.175.6:55331/6062716c0008efc86f76f0c44d55329f
+#EXTINF:-1 group-title="成人18✘+",彩虹电影
+p3p://167.114.175.6:55331/6253066c00049259f74b05224cf375e6
+#EXTINF:-1 group-title="成人18✘+",极限电影
+p3p://167.114.175.6:55331/6109e9bb0005fd87fd9ce5ea2c1f18d3
+#EXTINF:-1 group-title="成人18✘+",香蕉
+p3p://167.114.175.6:55331/60626a760005067e6f5bbecb5816771e
+#EXTINF:-1 group-title="成人18✘+",韩国演艺圈潜规则
+p3p://167.114.175.6:55331/5fe6d643000a32ae8ca7085f68304b38
+
+#EXTINF:-1 group-title="成人18✘+",小宝寻花
+p3p://167.114.175.6:55331/5fee940f000cad40aae3fce963f95891
 #EXTINF:-1 group-title="韩国",Arirang 阿里郎
 http://tv123.vvvv.ee/live.php/?ch=1
 #EXTINF:-1 group-title="韩国",KBS 1
