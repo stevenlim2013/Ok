@@ -1,0 +1,188 @@
+
+#EXTM3U
+<!-- 成功: A (HTTP 200) -->
+<!-- 成功: B (HTTP 200) -->
+<!-- 成功: C (HTTP 200) -->
+<!-- 成功: D (HTTP 200) -->
+<!-- 成功: E (HTTP 200) -->
+<!-- 成功: F (HTTP 200) -->
+<!-- 成功: G (HTTP 200) -->
+#EXTM3U
+#EXTINF:-1 group-title="成人18✘+",驚艷
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
+#EXTINF:-1 group-title="成人18✘+",潘朵拉完美
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
+#EXTINF:-1 group-title="成人18✘+",松視1台
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
+#EXTINF:-1 group-title="成人18✘+",松視2台
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
+#EXTINF:-1 group-title="成人18✘+",松視3台
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
+#EXTINF:-1 group-title="成人18✘+",九州惊艳
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
+#EXTINF:-1 group-title="成人18✘+",九州潘朵啦
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
+#EXTINF:-1 group-title="成人18✘+",九州彩虹
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
+#EXTINF:-1 group-title="成人18✘+",九州松1
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
+#EXTINF:-1 group-title="成人18✘+",九州松2
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
+#EXTINF:-1 group-title="成人18✘+",九州松3
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
+#EXTINF:-1 group-title="成人18✘+",彩虹e
+p3p://167.114.175.6:55331/6062716c0008efc86f76f0c44d55329f
+#EXTINF:-1 group-title="成人18✘+",彩虹电影
+p3p://167.114.175.6:55331/6253066c00049259f74b05224cf375e6
+#EXTINF:-1 group-title="成人18✘+",极限电影
+p3p://167.114.175.6:55331/6109e9bb0005fd87fd9ce5ea2c1f18d3
+#EXTINF:-1 group-title="成人18✘+",香蕉
+p3p://167.114.175.6:55331/60626a760005067e6f5bbecb5816771e
+#EXTINF:-1 group-title="成人18✘+",韩国演艺圈潜规则
+p3p://167.114.175.6:55331/5fe6d643000a32ae8ca7085f68304b38
+#EXTINF:-1 group-title="成人18✘+",小宝寻花
+p3p://167.114.175.6:55331/5fee940f000cad40aae3fce963f95891
+#EXTINF:-1 group-title="韩国",Arirang 阿里郎
+http://tv123.vvvv.ee/live.php/?ch=1
+#EXTINF:-1 group-title="韩国",KBS 1
+http://tv123.vvvv.ee/live.php/?ch=2
+#EXTINF:-1 group-title="韩国",KBS 2
+http://tv123.vvvv.ee/live.php/?ch=3
+#EXTINF:-1 group-title="韩国",BBS 불교 방송
+http://tv123.vvvv.ee/live.php/?ch=4
+#EXTINF:-1 group-title="韩国",CJ OnStyle
+http://tv123.vvvv.ee/live.php/?ch=5
+#EXTINF:-1 group-title="韩国",CJ OnStyle Plus
+http://tv123.vvvv.ee/live.php/?ch=6
+#EXTINF:-1 group-title="韩国",EBS+ 1
+http://tv123.vvvv.ee/live.php/?ch=7
+#EXTINF:-1 group-title="韩国",EBS+ 2
+http://tv123.vvvv.ee/live.php/?ch=8
+#EXTINF:-1 gre="•韩国「KO」",EBS 1
+http://tv123.vvvv.ee/live.php/?ch=9
+#EXTINF:-1 group-title="韩国",EBS 2
+http://tv123.vvvv.ee/live.php/?ch=10
+#EXTINF:-1 group-title="韩国",EBS 키즈
+http://tv123.vvvv.ee/live.php/?ch=11
+#EXTINF:-1 group-title="韩国",GS Shop
+http://tv123.vvvv.ee/live.php/?ch=12
+#EXTINF:-1 group-title="韩国",Gugak TV
+http://tv123.vvvv.ee/live.php/?ch=13
+#EXTINF:-1 group-title="韩国",KBS Drama
+http://tv123.vvvv.ee/live.php/?ch=14
+#EXTINF:-1 group-title="韩国",KBS Joy
+http://tv123.vvvv.ee/live.php/?ch=15
+#EXTINF:-1 group-title="韩国",KBS Kids
+http://tv123.vvvv.ee/live.php/?ch=16
+#EXTINF:-1 group-title="韩国",KBS LIFE
+http://tv123.vvvv.ee/live.php/?ch=17
+#EXTINF:-1 group-tie="•韩国「KO」",KBS LiveCam DokDo
+http://tv123.vvvv.ee/live.php/?ch=18
+#EXTINF:-1 group-title="韩国",KBS Story
+http://tv123.vvvv.ee/live.php/?ch=19
+#EXTINF:-1 group-title="韩国",KCTV 광주
+http://tv123.vvvv.ee/live.php/?ch=20
+#EXTINF:-1 group-title="韩国",Korea TV
+http://tv123.vvvv.ee/live.php/?ch=21
+#EXTINF:-1 group-title="韩国",MBC
+http://tv123.vvvv.ee/live.php/?ch=22
+#EXTINF:-1 group-title="韩国",NBS
+http://tv123.vvvv.ee/live.php/?ch=23
+#EXTINF:-1 group-title="韩国",SBS
+http://tv123.vvvv.ee/live.php/?ch=24
+#EXTINF:-1 group-title="韩国",TBS Seoul
+http://tv123.vvvv.ee/live.php/?ch=25
+#EXTINF:-1 group-title="韩国",국방国防TV
+http://tv123.vvvv.ee/live.php/?ch=26
+#EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="" group-title="🌲台湾88",中视
+http://tv123.vvvv.ee/live.php/?ch=27
+#EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="" group-title="🌲台湾88",中视新闻
+http://tv123.vvvv.ee/live.php/?ch=28
+#EXTINF:-1 tvg-id="原住民卫视" tvg-name="原住民卫视" tvg-logo="" group-title="🌲台湾88",原住民卫视
+http://tv123.vvvv.ee/live.php/?ch=29
+#EXTINF:-1 tvg-id="公视" tvg-name="公视" tvg-logo="" group-title="🌲台湾88",公视
+http://tv123.vvvv.ee/live.php/?ch=30
+#EXTINF:-1 tvg-id="公视台语" tvg-name="公视台语" tvg-logo="" group-title="🌲台湾88",公视台语
+http://tv123.vvvv.ee/live.php/?ch=31
+#EXTINF:-1 tvg-id="客家卫视" tvg-name="客家卫视" tvg-logo="" group-title="🌲台湾88",客家卫视
+http://tv123.vvvv.ee/live.php/?ch=32
+#EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="" group-title="🌲台湾88",民视
+http://tv123.vvvv.ee/live.php/?ch=33
+#EXTINF:-1 tvg-id="民视第一" tvg-name="民视第一" tvg-logo="" group-title="🌲台湾88",民视第一
+http://tv123.vvvv.ee/live.php/?ch=34
+#EXTINF:-1 tvg-id="民视新闻" tvg-name="民视新闻" tvg-logo="" group-title="🌲台湾88",民视新闻
+http://tv123.vvvv.ee/live.php/?ch=35
+#EXTINF:-1 tvg-id="2838d50de5d50d2e46ba88589f494bc7" tvg-logo="https://via.placeholder.com/150x80?text=HGTV" group-title="英国", HGTV
+http://tv123.vvvv.ee/live.php/?ch=785
+#EXTINF:-1 tvg-id="c6a3523d9682cd539258a3e4322be9ac" tvg-logo="https://via.placeholder.com/150x80?text=Axn+HD" group-title="英国", Axn HD
+http://tv123.vvvv.ee/live.php/?ch=786
+#EXTINF:-1 tvg-id="648cae038734bad4d88754761c11bdd9" tvg-logo="https://via.placeholder.com/150x80?text=Skysports+F1" group-title="英国", Skysports F1
+http://tv123.vvvv.ee/live.php/?ch=787
+#EXTINF:-1 tvg-id="0aa1aadbaa1ff48964575222f3b35491" tvg-logo="https://via.placeholder.com/150x80?text=Skysports+Cricket" group-title="英国", Skysports Cricket
+http://tv123.vvvv.ee/live.php/?ch=788
+#EXTINF:-1 tvg-id="6ce55231bb77b9d37568d7cd93c1c980" tvg-logo="https://via.placeholder.com/150x80?text=Bloomberg+News" group-title="英国", Bloomberg News
+http://tv123.vvvv.ee/live.php/?ch=789
+#EXTINF:-1 tvg-id="870144ded2ac21bad42d2074b4123f0e" tvg-logo="https://via.placeholder.com/150x80?text=Skysports+EPL" group-title="英国", Skysports EPL
+http://tv123.vvvv.ee/live.php/?ch=790
+#EXTINF:-1 tvg-id="898cc446bc9f9110e10e3b67c38994d4" tvg-logo="https://via.placeholder.com/150x80?text=Skysports+Main+Event" group-title="英国", Skysports Main Event
+http://tv123.vvvv.ee/live.php/?ch=791
+#EXTINF:-1 tvg-id="207b635df5bf2e51acccc983805c9cf5" tvg-logo="https://via.placeholder.com/150x80?text=Skysports+News" group-title="英国", Skysports News
+http://tv123.vvvv.ee/live.php/?ch=792
+#EXTINF:-1 tvg-id="a71d31eb2a9c4addaaf13770a1ef1cb0" tvg-logo="https://via.placeholder.com/150x80?text=Al-Jazeera" group-title="英国", Al-Jazeera
+http://tv123.vvvv.ee/live.php/?ch=793
+#EXTINF:-1 tvg-id="517eb9c1d912bfe79be2421dc6857882" tvg-logo="https://via.placeholder.com/150x80?text=%E5%85%AC%E8%A6%96%E5%8F%B0%E8%AA%9E%E5%8F%B0" group-title="其他", 公視台語台
+http://tv123.vvvv.ee/live.php/?ch=794
+#EXTINF:-1 tvg-id="2ea69909df986fcdce513fd908bc92fb" tvg-logo="https://via.placeholder.com/150x80?text=%E5%85%AC%E8%A6%96%E5%85%92%E5%B0%91%E5%8F%B0" group-title="其他", 公視兒少台
+http://tv123.vvvv.ee/live.php/?ch=795
+#EXTINF:-1 tvg-id="2002d5dcddf211e101f1fa2b5733e839" tvg-logo="https://via.placeholder.com/150x80?text=Discovery%E5%8F%B0%E7%81%A3" group-title="其他", Discovery台灣
+http://tv123.vvvv.ee/live.php/?ch=796
+#EXTINF:-1 tvg-id="91d26119dcb5aa1fc3c0b209e31ac776" tvg-logo="https://via.placeholder.com/150x80?text=%E4%B8%89%E7%AB%8B%E9%83%BD%E6%9C%83" group-title="其他", 三立都會
+http://tv123.vvvv.ee/live.php/?ch=797
+#EXTINF:-1 tvg-id="4b0980cabc07b7bc3ec5035ec71b4cbe" tvg-logo="https://via.placeholder.com/150x80?text=ETtoday%E7%B6%9C%E5%90%88%E5%8F%B0" group-title="其他", ETtoday綜合台
+http://tv123.vvvv.ee/live.php/?ch=798
+#EXTINF:-1 tvg-id="aac304d7d73a842852abd4cf9141a309" tvg-logo="https://via.placeholder.com/150x80?text=Catchplay%E9%9B%BB%E5%BD%B1%E5%8F%B0" group-title="其他", Catchplay電影台
+http://tv123.vvvv.ee/live.php/?ch=799
+#EXTINF:-1 tvg-id="cf9f9b2d60fe0029f57511ca8ce2253a" tvg-logo="https://via.placeholder.com/150x80?text=DAZN+1" group-title="其他", DAZN 1
+http://tv123.vvvv.ee/live.php/?ch=800
+#EXTINF:-1 tvg-id="c3c34263b346fe286f669f367f0551ef" tvg-logo="https://via.placeholder.com/150x80?text=DAZN+2" group-title="其他", DAZN 2
+http://tv123.vvvv.ee/live.php/?ch=801
+#EXTINF:-1 tvg-id="eb82d173de62ed8826c82f58337585ed" tvg-logo="https://via.placeholder.com/150x80?text=%E4%BF%A1%E5%A4%A7" group-title="其他", 信大
+http://tv123.vvvv.ee/live.php/?ch=802
+#EXTINF:-1 tvg-id="9e748e7e875da07f562ded22bfa5e1b2" tvg-logo="https://via.placeholder.com/150x80?text=%E9%9D%96%E6%B4%8B%E5%8D%A1%E9%80%9A" group-title="其他", 靖洋卡通
+http://tv123.vvvv.ee/live.php/?ch=803
+#EXTINF:-1 tvg-id="1a10be3692cec335c74387f33221a6fa" tvg-logo="https://via.placeholder.com/150x80?text=Lifetime" group-title="其他", Lifetime
+http://tv123.vvvv.ee/live.php/?ch=804
+#EXTINF:-1 tvg-id="2838d50de5d50d2e46ba88589f494bc7" tvg-logo="https://via.placeholder.com/150x80?text=HGTV" group-title="其他", HGTV
+http://tv123.vvvv.ee/live.php/?ch=805
+#EXTINF:-1 tvg-id="acc6feb10ff8c744e2c07bc92c8f6748" tvg-logo="https://via.placeholder.com/150x80?text=%E6%84%9B%E7%88%BE%E9%81%94%E7%B6%9C%E5%90%88" group-title="其他", 愛爾達綜合
+http://tv123.vvvv.ee/live.php/?ch=806
+#EXTINF:-1 tvg-id="e5d2f12645e96ba3f82706a635b45145" tvg-logo="https://via.placeholder.com/150x80?text=%E6%B0%91%E8%A6%96%E5%BD%B1%E5%8A%87" group-title="其他", 民視影劇
+http://tv123.vvvv.ee/live.php/?ch=807
+#EXTINF:-1 tvg-id="ccc494fbbbf9a526ffe5dfa40aa86e1d" tvg-logo="https://via.placeholder.com/150x80?text=%E9%9D%96%E5%A4%A9%E6%97%A5%E6%9C%AC" group-title="其他", 靖天日本
+http://tv123.vvvv.ee/live.php/?ch=808
+#EXTINF:-1 tvg-id="0198902aad24dbd74a829847094f6311" tvg-logo="https://via.placeholder.com/150x80?text=NHK+World" group-title="其他", NHK World
+http://tv123.vvvv.ee/live.php/?ch=809
+#EXTINF:-1 tvg-id="3b7dd11b6654dd5f35745285ededdbd9" tvg-logo="https://via.placeholder.com/150x80?text=Sky+News" group-title="其他", Sky News
+http://tv123.vvvv.ee/live.php/?ch=810
+#EXTINF:-1 tvg-id="10ae0037515403bdeadd6016a352726e" tvg-logo="https://via.placeholder.com/150x80?text=HBO+Hits" group-title="其他", HBO Hits
+http://tv123.vvvv.ee/live.php/?ch=811
+#EXTINF:-1 tvg-id="a42674dcc0ef7cae6e9c4916951aa1d3" tvg-logo="https://via.placeholder.com/150x80?text=HBO+Signature" group-title="其他", HBO Signature
+http://tv123.vvvv.ee/live.php/?ch=812
+#EXTINF:-1 tvg-id="7b0ef842a6a1233a8a86a8533063a1a1" tvg-logo="https://via.placeholder.com/150x80?text=ESPN" group-title="其他", ESPN
+http://tv123.vvvv.ee/live.php/?ch=813
+#EXTINF:-1 tvg-id="252281d97c0213dc30031564b51f30de" tvg-logo="https://via.placeholder.com/150x80?text=Skysports+Arena" group-title="其他", Skysports Arena
+http://tv123.vvvv.ee/live.php/?ch=814
+#EXTINF:-1 tvg-id="76505e4eac021175bbef106fae72db2a" tvg-logo="https://via.placeholder.com/150x80?text=Skysports+Football" group-title="其他", Skysports Football
+http://tv123.vvvv.ee/live.php/?ch=815
+#EXTINF:-1 tvg-id="6b6e8ebeb3fc141b42ee9ca728fcea3c" tvg-logo="https://via.placeholder.com/150x80?text=Skysports+Golf" group-title="其他", Skysports Golf
+http://tv123.vvvv.ee/live.php/?ch=816
+#EXTINF:-1 tvg-id="e6d922e6a01891881dea8ff685d2b16b" tvg-logo="https://via.placeholder.com/150x80?text=Skysports+NFL" group-title="其他", Skysports NFL
+http://tv123.vvvv.ee/live.php/?ch=817
+#EXTINF:-1 tvg-id="f297508d51aa255f80ba9c38f8da54a5" tvg-logo="https://via.placeholder.com/150x80?text=Skysports+Racing" group-title="其他", Skysports Racing
+http://tv123.vvvv.ee/live.php/?ch=818
+#EXTINF:-1 tvg-id="52b6d6fc82db6aef110362f4755a1fe8" tvg-logo="https://via.placeholder.com/150x80?text=NBA" group-title="其他", NBA
+http://tv123.vvvv.ee/live.php/?ch=819
+#EXTINF:-1 tvg-id="d71a6364b7bc3e6242f9f0ee725ebcee" tvg-logo="https://via.placeholder.com/150x80?text=CCTV-16" group-title="其他", CCTV-16
+http://tv123.vvvv.ee/live.php/?ch=820
+#EXTINF:-1 tvg-id="2e81fd96b258293bf6509d241cf38365" tvg-logo="https://via.placeholder.com/150x80?text=CCTV-17" group-title="其他", CCTV-17
+http://tv123.vvvv.ee/live.php/?ch=821
